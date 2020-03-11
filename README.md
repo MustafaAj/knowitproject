@@ -1,2 +1,0 @@
-# knowitproject
-Created with CodeSandbox
